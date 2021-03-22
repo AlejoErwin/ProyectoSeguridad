@@ -1,4 +1,3 @@
-
 def convert(u,discoI):
     cont=0
     discoI1=""
